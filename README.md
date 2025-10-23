@@ -56,7 +56,7 @@ The scope might be extended with other versions in the future.
   <tr align="left">
     <td>Router</td>
     <td>https://github.com/ston-fi/dex-core/blob/v1.0.0/contracts/router.func</td>
-  </tr>
+  </tr
 </table>
 
 The contracts version may be updated in the future.
